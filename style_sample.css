@@ -169,7 +169,7 @@ iframe {
 
 .flex-container {
     display: flex;
-    flex-wrap: noflex;
+    flex-wrap: wrap;
     background-color: white;
 }
 
